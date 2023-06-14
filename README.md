@@ -10,5 +10,5 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ![Diagrama Hospital drawio](https://user-images.githubusercontent.com/125493365/234122406-0d8e6083-44ac-49cb-a30f-2c9ad97f885c.png)
 
-
+A baixo segue uma versão realizada pelo dbdiagram.
 ![O Hospital Fundamental](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/de4279b4-aa4c-40c8-84a3-374681ce0496)
