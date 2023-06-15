@@ -25,8 +25,6 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
 
-![image](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/98e2f7b9-eade-42a7-9dbe-e7f1b8529cd1)
-
 Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações. 
 
 ![Os segredos do Hospital (1)](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/ac24f2da-0787-4b76-ada1-89d6f7809c31)
