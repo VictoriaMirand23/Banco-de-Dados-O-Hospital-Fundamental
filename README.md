@@ -10,5 +10,26 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ![Diagrama Hospital drawio](https://user-images.githubusercontent.com/125493365/234122406-0d8e6083-44ac-49cb-a30f-2c9ad97f885c.png)
 
-A baixo segue uma versão realizada pelo dbdiagram.
-![O Hospital Fundamental](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/de4279b4-aa4c-40c8-84a3-374681ce0496)
+
+# Os segredos do Hospital 
+# PARTE 2
+
+No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
+
+Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. 
+
+As internações precisam ser vinculadas a quartos, com a numeração e o tipo. 
+
+Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o hospital trabalha com apartamentos, quartos duplos e enfermaria).
+
+Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
+
+A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
+
+![image](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/98e2f7b9-eade-42a7-9dbe-e7f1b8529cd1)
+
+Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações. 
+
+![Os segredos do Hospital (1)](https://github.com/VictoriaMirand23/Banco-de-Dados-O-Hospital-Fundamental/assets/125493365/ac24f2da-0787-4b76-ada1-89d6f7809c31)
+
+
