@@ -11,8 +11,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 ![Diagrama Hospital drawio](https://user-images.githubusercontent.com/125493365/234122406-0d8e6083-44ac-49cb-a30f-2c9ad97f885c.png)
 
 
-# Os segredos do Hospital 
-# PARTE 2
+# Os segredos do Hospital | PARTE 2
 
 No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
 
